@@ -10,7 +10,7 @@ PRE-SETUP
 4. Download this repository as a .zip file. (top right, click 'Code' dropdown menu and select 'Download ZIP')
 
 SETUP
-1. Open MultiMC if not already the case.
+1. Open MultiMC.
 2. Once MultiMC is open, click 'Add Instance' in top left corner.
 3. Select 'Import from zip', and select the downloaded repository. Allow the installation process to complete. 
 4. Select the new instance and, on right hand side, click 'Edit Instance'.
