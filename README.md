@@ -1,4 +1,4 @@
-# scarlet-rains-modded
+# Axiomcraft Modded
 This is a custom 1.19.2 modpack file for use with multiMC.
 
 Installation instructions are as follows:
