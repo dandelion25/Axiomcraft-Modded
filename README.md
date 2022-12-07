@@ -21,4 +21,4 @@ SETUP
 8. Have fun!
 
 Current public server IP is at [219.74.69.65:25565]<br>
-contact me if you need whitelist or whatever \
+contact me if you need whitelist or whatever
