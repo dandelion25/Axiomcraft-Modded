@@ -15,7 +15,7 @@ SETUP
 3. Select 'Import from zip', and select the downloaded repository. Allow the installation process to complete. 
 4. Select the new instance and, on right hand side, click 'Edit Instance'.
 5. On left hand side of new window, click 'Settings'; check box next to 'Memory'.
-6. Set minimum and maximum memory allocation. It is recommended to set max above ~3500 MiB.
+6. Set minimum and maximum memory allocation. It is recommended to set max above ~3500 MB.
 7. Launch instance.
 8. Have fun!
 
