@@ -19,5 +19,5 @@ SETUP
 7. Launch instance.
 8. Have fun!
 
-Current public server IP is at [219.74.69.65:25565]<br>
-contact me if you need whitelist or whatever
+Current server IP is at [219.74.69.65:25565]<br>
+contact me if you need whitelist yesyes
