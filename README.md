@@ -10,12 +10,12 @@ PRE-SETUP
 4. In the unpacked folder, launch MultiMC.exe.
 
 MULTIMC SETUP
-2. Select your language.
-3. Select your java installation. The 'auto-detect' function should find all installed java installations. (if not, all can be changed in 'settings')
-4. Set maximum memory allocation. It is recommended to set max above ~3500 MB.
-5. Once MultiMC initial setup is complete, it will prompt you to update the program; accept this update.
-6. When MultiMC is restarted, click the profile in the top right and select 'Manage Accounts'.
-7. Add a Mojang or Microsoft account as needed.
+1. Select your language.
+2.  Select your java installation. The 'auto-detect' function should find all installed java installations. (if not, all can be changed in 'settings')
+3.  Set maximum memory allocation. It is recommended to set max above ~3500 MB.
+4. Once MultiMC initial setup is complete, it will prompt you to update the program; accept this update.
+5. When MultiMC is restarted, click the profile in the top right and select 'Manage Accounts'.
+6. Add a Mojang or Microsoft account as needed.
 
 INSTANCE CREATION
 1. Once MultiMC is fully setup, click 'Add Instance' in top left corner.
