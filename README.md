@@ -1,5 +1,5 @@
-# scarlet-rains-modded
-This is a custom 1.19.2 modpack file for use with multiMC.
+# axiomcraft modded 2023
+This is a custom 1.19.2 modpack file for use with multiMC, running on forge version 43.2.0.
 
 Installation instructions are as follows:
 
@@ -20,5 +20,5 @@ SETUP
 7. Launch instance.
 8. Have fun!
 
-Current public server IP is at [219.74.69.65:25565]<br>
+Current public server IP is at [no server active; tbd]<br>
 contact me if you need whitelist or whatever \
