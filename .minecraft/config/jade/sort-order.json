@@ -62,5 +62,9 @@
   "jade:registry_name": null,
   "jade:mod_name": null,
   "jade:distance": null,
-  "jade:block_face": null
+  "jade:block_face": null,
+  "mekanism:data_provider": null,
+  "mekanism:entity_data_provider": null,
+  "mekanism:tooltip_renderer": null,
+  "mekanism:remove_builtin": null
 }
